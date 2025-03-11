@@ -16,7 +16,7 @@
         android:layout_marginTop="12dp"
         android:layout_marginBottom="12dp"
         android:layout_marginEnd="12dp"
-        android:text="24*7 Healthcare"
+        android:text="Book appointment"
         android:textSize="30sp"
         android:textColor="#fff"
         android:textStyle="bold"
