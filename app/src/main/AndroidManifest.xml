@@ -13,6 +13,9 @@
         android:theme="@style/Theme.HealthcareProject"
         tools:targetApi="31">
         <activity
+            android:name=".AppointmentsDetailActivity"
+            android:exported="false" />
+        <activity
             android:name=".BookAppointmentActivity"
             android:exported="false" />
         <activity

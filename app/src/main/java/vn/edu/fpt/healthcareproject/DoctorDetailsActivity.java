@@ -120,8 +120,8 @@ public class DoctorDetailsActivity extends AppCompatActivity {
                 it.putExtra("text1",title);
                 it.putExtra("text2", doctorDetails[i][0]);
                 it.putExtra("text3", doctorDetails[i][1]);
-                it.putExtra("text5", doctorDetails[i][3]);
-                it.putExtra("text6", doctorDetails[i][4]);
+                it.putExtra("text4", doctorDetails[i][3]);
+                it.putExtra("text5", doctorDetails[i][4]);
                 startActivity(it);
             }
         });
